@@ -1,0 +1,9 @@
+Catégories d'upgrade:
+- Upgrade piss drawer (Augmenter la taille de la banque)
+- GPU
+- 
+
+
+Upgrade par catégorie:
+- GTX 560 Ti < GTX 1060 < RTX ON (RTX 2060) < RTX 3060Ti < RTX 3080 < RTX 3090 < RTX TITAN
+- 
